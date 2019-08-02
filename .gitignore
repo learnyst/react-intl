@@ -1,5 +1,4 @@
 coverage/
-lib/
 locale-data/
 node_modules/
 src/en.js
@@ -9,7 +8,4 @@ src/en.js
 
 # VS Code
 .vscode
-
-core.js
-core.d.ts
 .cache
